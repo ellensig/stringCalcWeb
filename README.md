@@ -1,4 +1,4 @@
-[![Build        Status](https://travis-ci.org/ellensig/stringCalcWeb)](https://travis-ci.org/ellensig/stringCalcWeb)
+[![Build        Status](https://travis-ci.org/ellensig/StringCalculator.svg?branch=master.png)](https://travis-ci.org/ellensig/stringCalcWeb)
 
 Software Engineering (C-T-303-HUGB), Week 10 Fall Semester 2017
 
